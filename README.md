@@ -1,2 +1,2 @@
-# Welcomemsg
-A simple welcome message for your server
+# Welcomemsg (3D)
+A simple welcome message (3D) for your server
