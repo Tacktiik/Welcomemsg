@@ -1,5 +1,5 @@
 description 'Message de bienvenue'
 
-client_script 'client.lua' -- Thx TROOPER ZIKOZ --
+client_script 'client.lua'
 
 
