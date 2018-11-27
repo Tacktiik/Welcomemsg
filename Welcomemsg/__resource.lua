@@ -1,5 +1,5 @@
 description 'Message de bienvenue'
 
-client_script 'client.lua' -
+client_script 'client.lua'
 
 
